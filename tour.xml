@@ -1,6 +1,6 @@
 ﻿<krpano version="1.19" title="LOHAS Park 13">
 
-	<include url="skin/vtourskin.xml" />
+	<include url="vtourskin.xml" />
 
 
 	<!-- customize skin settings: maps, gyro, webvr, thumbnails, tooltips, layout, design, ... -->
